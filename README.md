@@ -1,1 +1,1 @@
-A simple immplementation of armstrong number.
+A simple implementation of armstrong number.
